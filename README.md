@@ -17,16 +17,21 @@ and interactive visualizations.
 - **Visualization:** Tableau, D3.js, Matplotlib, Seaborn
 - **Tools:** GitHub, Jupyter Notebook, Databricks
 
+
 ## Featured Projects
 
-- [SF Rent Analysis & Prediction](https://charlene-khun.github.io/portfolio/portfolio-3/)
-- [NYPL Data Cleaning & Analysis](https://charlene-khun.github.io/portfolio/portfolio-4/)
-- [COVID-19 Trends Dashboard](https://charlene-khun.github.io/portfolio/portfolio-2/)
-- [Automobile Efficiency Visualization](https://charlene-khun.github.io/portfolio/portfolio-1/)
+- [SF Rent Analysis & Prediction](https://charlene-khun.github.io/portfolio/portfolio-3/) — Analyzed rental housing data and evaluated machine learning models to predict rental prices.
+
+- [NYPL Data Cleaning & Analysis](https://charlene-khun.github.io/portfolio/portfolio-4/) — Cleaned and validated over 1.3 million historical menu-item records using OpenRefine, Python, and SQL.
+
+- [COVID-19 Trends Dashboard](https://charlene-khun.github.io/portfolio/portfolio-2/) — Built an interactive Tableau dashboard to visualize COVID-19 trends across U.S. states.
+
+- [Automobile Efficiency Visualization](https://charlene-khun.github.io/portfolio/portfolio-1/) — Developed interactive D3.js visualizations to analyze fuel efficiency across vehicle types.
 
 ## Open to Work
 
-I'm seeking entry-level Data Analyst and Data Scientist opportunities.
+I'm seeking entry-level Data Analyst and Data Scientist opportunities where I can apply my analytical, statistical, and machine learning skills to solve real-world problems.
 
 - [Portfolio](https://charlene-khun.github.io/)
+- [Resume / CV](https://charlene-khun.github.io/cv/)
 - [LinkedIn](https://www.linkedin.com/in/charlene-khun/)
